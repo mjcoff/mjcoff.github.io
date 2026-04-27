@@ -1,8 +1,3 @@
----
-id: home
-title: "Milo Coffey"
-sidebar_lab: Home
----
 
 # Milo Coffey
 
