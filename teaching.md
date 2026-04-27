@@ -1,2 +1,6 @@
-layout: page
-title: "Teaching"
+---
+id: teaching
+---
+
+# Teaching
+
