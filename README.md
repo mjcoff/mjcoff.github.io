@@ -1,5 +1,6 @@
 ---
 id: home
+title: "Milo Coffey"
 ---
 
 # Milo Coffey
