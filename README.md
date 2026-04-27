@@ -8,7 +8,7 @@ My research interests lie mainly in lexical semantics, and ways of applying theo
 
 ## Links
 
-ORCiD: https://orcid.org/0009-0008-1986-8789
+ORCiD: (https://orcid.org/0009-0008-1986-8789)
 
 WGSSS profile: https://wgsss.ac.uk/profile/milo-coffey/
 
