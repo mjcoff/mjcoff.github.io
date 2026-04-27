@@ -1,4 +1,4 @@
-theme: jekyll-theme-primer
+remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 title: Milo Coffey
 
 sidebar:
