@@ -2,6 +2,7 @@ remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 title: Milo Coffey
 
 sidebar:
+  - home
   - research
   - publications
   - teaching
