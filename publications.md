@@ -2,7 +2,7 @@
 id: publications
 ---
 
-# My publications
+# Publications
 
 ## Journal articles
 
